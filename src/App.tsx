@@ -143,17 +143,17 @@ const CASE_STUDIES: CaseStudy[] = [
     ],
     links: [
       {
-        label: "Xem SRS & Mô hình ERD",
-        href: "/docs/SmartWMS_Final_Report.pdf#page=23",
+        label: "Xem SRS & Luồng Quy trình",
+        href: "/docs/SmartWMS_Final_Report.pdf#page=24",
         isPrimary: true,
       },
       {
-        label: "Xem Đặc tả Logic Vận hành",
-        href: "/docs/SmartWMS_Final_Report.pdf#page=17",
+        label: "Xem Mô hình ERD & Data Dictionary",
+        href: "/docs/SmartWMS_Final_Report.pdf#page=56",
       },
       {
         label: "Xem Báo cáo Nghiệm thu Tải & UAT",
-        href: "/docs/SmartWMS_Final_Report.pdf#page=79",
+        href: "/docs/SmartWMS_Final_Report.pdf#page=80",
       },
     ],
   },
@@ -223,7 +223,7 @@ const CASE_STUDIES: CaseStudy[] = [
     links: [
       {
         label: "Xem BRD & Luồng Trạng thái FSM",
-        href: "https://drive.google.com/file/d/1b_7t6mWdC27bUutBzp_BymuW5kNYZM7t/view?usp=sharing",
+        href: "/docs/InternHub_BRD_System_Specification_v1.0.pdf",
         isPrimary: true,
       },
       {
